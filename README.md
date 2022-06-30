@@ -27,7 +27,6 @@ Open the project with your IDE.
   1. Run the class `messageit.Server.java`.
   2. Provide the listening port by console.
   3. Interact with the server!
-  <img src="https://user-images.githubusercontent.com/73978713/176770895-a399eef5-23ee-4b1f-8102-14a60a6f4fa1.png" height="140">
 
 ### Client Application
 
@@ -48,6 +47,7 @@ You will need to generate two programs: the server application and the client ap
 <img src="https://user-images.githubusercontent.com/73978713/176773195-6ae7a368-34cd-4a8b-b8ea-cb1e1eb33a11.png" height="500">
 
 > Note: The server application should be run from a CLI. Open your CLI on the server application folder and type the command `java -jar .\MessageIt.jar`.
+<img src="https://user-images.githubusercontent.com/73978713/176770895-a399eef5-23ee-4b1f-8102-14a60a6f4fa1.png" height="140">
 
 ## Acknowledgements
 
