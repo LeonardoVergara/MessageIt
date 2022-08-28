@@ -16,7 +16,7 @@ Socket-based chat in Java that works under the client-server model on a LAN. Thi
 
 You can clone this repsitory to get the source code
 
-    git clone https://github.com/LeonardoVergara/MessageIt.git
+    git clone https://github.com/vergaraldvm/MessageIt.git
 
 ## Usage
 
